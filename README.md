@@ -11,7 +11,7 @@
 
 ## Lenguajes & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,angular,nodejs,nestjs,ionic,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,angular,nodejs,nestjs,html,css,js" />
 </p>
 
 ## Backend & Cloud
