@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pau Valiente
-### Full Stack Developer
+### Full Stack Developer | AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pau-valiente/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pauvalientee)
@@ -11,13 +11,20 @@
 
 ## Lenguajes & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,angular,nodejs,nestjs,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,angular,nextjs,nodejs,nestjs,html,css,js" />
 </p>
 
-## Backend & Cloud
+## Backend, Cloud & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,firebase,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=spring,supabase,prisma,firebase,mysql,mongodb" />
 </p>
+
+## Inteligencia Artificial & Agentes
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai,bots" />
+</p>
+
+---
 
 ## Herramientas
 <p align="center">
