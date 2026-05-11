@@ -24,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=ai,bots" />
 </p>
 
+> **Especializado en:** Implementación de Agentes Autónomos, Workflows con **Claude Code** y optimización de desarrollo mediante LLMs.
+
 ---
 
 ## Herramientas
