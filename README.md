@@ -21,7 +21,8 @@
 
 ## Inteligencia Artificial & Agentes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ai,bots" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
 </p>
 
 > **Especializado en:** Implementación de Agentes Autónomos, Workflows con **Claude Code** y optimización de desarrollo mediante LLMs.
